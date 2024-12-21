@@ -1,4 +1,4 @@
-proxy-groups:
+      proxy-groups:
   - name: 节点选择
     icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Proxy.png
     type: select
@@ -373,7 +373,6 @@ rules:
   - "RULE-SET,LocalAreaNetwork,全球直连"
   - "RULE-SET,UnBan,全球直连"
   - "RULE-SET,BanAD,广告拦截"
-  - "RULE-SET,GoogleFCM,谷歌FCM"
   - "RULE-SET,GoogleCN,全球直连"
   - "RULE-SET,SteamCN,全球直连"
   - "RULE-SET,Bing,微软Bing"
